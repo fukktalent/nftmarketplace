@@ -1,0 +1,20 @@
+{
+  "attributes": [
+      {
+          "trait_type": "strength",
+          "value": 5
+      },
+      {
+          "trait_type": "intelligence",
+          "value": 3
+      },
+      {
+          "trait_type": "luck",
+          "value": 1
+      }
+  ],
+  "description": "Some card type number 2",
+  "external_url": "https://github.com/fukktalent",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTv3H8YLzWjXRWPMLs93tkwx66nm29z6aXg7fRzivxCbx/2.png",
+  "name": "Card 2"
+}
